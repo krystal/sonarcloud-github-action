@@ -15,4 +15,4 @@ inputs:
     default: .
 runs:
   using: "docker"
-  image: "docker://ghcr.io/krystal/sonarcloud-github-action:1.10.1" # x-release-please-version
+  image: "docker://ghcr.io/krystal/sonarcloud-github-action:1.11.0" # x-release-please-version
